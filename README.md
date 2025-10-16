@@ -24,7 +24,7 @@
 
   简介：根据快手视频分享链接获取快手视频详情
 
-- **[获取小红书匿名cookie](http://txapi.cn/api_detail?id=1968699793018454016)**
+- **[获取小红书匿名cookie](http://txapi.cn/api_detail?id=1968701192334737408)**
 
   简介：获取小红书匿名cookie
 
